@@ -1,0 +1,30 @@
+* {
+  font-family: 'Bitter', serif;
+  font-optical-sizing: auto;
+}
+.myContainer {
+  color: white;
+  width: 300px;
+  height: 200px;
+  background-image: url('https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg');
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 14px;
+}
+.wrap {
+  margin: auto;
+  width: 300px;
+}
+
+.mybtn {
+  width: 100%;
+  padding: 15px 30px;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
